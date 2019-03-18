@@ -1,3 +1,5 @@
+<img src="Dappcentral_Logo.png" width="200">
+
 # Dappcentral
 
 Dappcentral is a software company that builds decentralized applications on the blockchain.
