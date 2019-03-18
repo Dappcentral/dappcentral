@@ -1,4 +1,4 @@
-<img src="Dappcentral_Logo.png" width="200">
+<img src="Dappcentral_Logo.png" width="250">
 
 # Dappcentral
 
