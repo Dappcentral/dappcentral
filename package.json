@@ -1,0 +1,28 @@
+{
+  "name": "escrow-commons",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappcentral/escrow-commons.git"
+  },
+  "author": "imbrex <support@imbrex.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dappcentral/escrow-commons/issues"
+  },
+  "homepage": "https://github.com/dappcentral/escrow-commons#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3"
+  }
+}
