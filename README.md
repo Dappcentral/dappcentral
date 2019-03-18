@@ -1,10 +1,10 @@
-# Escrow Commons
+# Dappcentral
 
-Escrow Commons, built and maintained by [imbrex](https://imbrex.io), is a standalone package for decentralizing the trust and management of escrow as it pertains to the real estate industry.
+Dappcentral is a software company that builds decentralized applications on the blockchain.
 
 ### Issues
 
-For issues and bug reporting, please see the official issue list on [Github](https://github.com/dappcentral/escrow-commons/issues).
+For issues and bug reporting, please see the official issue list on [Github](https://github.com/Dappcentral/dappcentral/issues).
 
 ### Todos
 
